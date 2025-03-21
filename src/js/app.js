@@ -7,7 +7,7 @@ import './modules/stock-slider';
 import ResponsiveMenu from './modules/ResponsiveMenu';
 import { connectForms, cookiecook } from '@alexsab-ru/scripts';
 cookiecook();
-connectForms('https://alexsab.ru/lead/test/', {
+connectForms('https://alexsab.ru/lead/dev/', {
 	confirmModalText: 'Вы уже оставляли заявку сегодня, с Вами обязательно свяжутся в ближайшее время!',
 });
 
