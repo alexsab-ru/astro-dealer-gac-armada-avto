@@ -1,0 +1,40 @@
+---
+pubDate: 2025-03-27
+caption:  Специальные предложения для моделей GS8, GS3 и M8
+image: https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/thumb.webp
+title: Специальные предложения для моделей GS8, GS3 и M8
+description: "Превосходные условия на превосходные автомобили GAC GS8, GAC GS3 и GAC M8. Новые стартовые цены"
+breadcrumb: Специальные предложения для моделей GS8, GS3 и M8
+h1: Специальные предложения для моделей GS8, GS3 и M8
+---
+export const DateTo = "31.03.2025"
+
+import Button from '@/components/Button/Button.astro';
+import Timer from '@/components/Timer/Timer.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+
+<picture>
+	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/banner.webp" />
+	<source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/thumb.webp" />
+	<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/banner.webp" class="" alt="Специальные предложения для моделей GS8, GS3 и M8" />
+</picture>
+
+<h2>Превосходные условия на превосходные автомобили: кредит от 0,01% на GAC GS8, GAC GS3 и GAC M8, а также новые стартовые цены</h2>
+<div>
+  <div>
+    <p><strong>От 0,01%</strong></p>
+    <p>Процентная ставка<sup>1</sup></p>
+  </div>
+  <div>
+    <p><strong>До 96 месяцев</strong></p>
+    <p>Срок кредитования</p>
+  </div>
+  <div>
+    <p><strong>Больше преимущества</strong></p>
+    <p>Суммируются с выгодой по трейд-ин</p>
+  </div>
+</div>
+
+<Timer subtitle='До конца акции' btnName='Получить предложение' endtime='2025-03-31T23:59:59+04:00'/>
+
