@@ -54,6 +54,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://gac.alexsab.ru',
+	site: 'https://gac-armada-avto.ru',
 	base: "/"
 });
