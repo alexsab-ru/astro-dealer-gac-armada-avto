@@ -956,7 +956,6 @@ _______________________________________________________
 			<tradein_discount />
 			<complectation_name>GL</complectation_name>
 			<insurance_discount />
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 		<max_discount>600000</max_discount><priceWithDiscount>3299000</priceWithDiscount><sale_price>3299000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gl-черный-2024/</url></car>
@@ -1074,7 +1073,6 @@ _______________________________________________________
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GT</complectation_name>
 			<insurance_discount />
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 		<max_discount>600000</max_discount><priceWithDiscount>3699000</priceWithDiscount><sale_price>3699000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
@@ -1192,7 +1190,6 @@ _______________________________________________________
 			<tradein_discount />
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount />
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 		<max_discount>600000</max_discount><priceWithDiscount>4049000</priceWithDiscount><sale_price>4049000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
@@ -1280,7 +1277,6 @@ _______________________________________________________
 			<tradein_discount />
 			<complectation_name>GT</complectation_name>
 			<insurance_discount />
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 		<max_discount>600000</max_discount><priceWithDiscount>3699000</priceWithDiscount><sale_price>3699000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-серый-2024/</url></car>
@@ -2359,7 +2355,6 @@ _______________________________________________________
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GT</complectation_name>
 			<insurance_discount />
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 		<max_discount>600000</max_discount><priceWithDiscount>3699000</priceWithDiscount><sale_price>3699000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
@@ -2447,7 +2442,6 @@ _______________________________________________________
 			<tradein_discount />
 			<complectation_name>GT</complectation_name>
 			<insurance_discount />
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 		<max_discount>600000</max_discount><priceWithDiscount>3699000</priceWithDiscount><sale_price>3699000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-зеленый-2024/</url></car>
@@ -2568,7 +2562,6 @@ _______________________________________________________
 			<tradein_discount />
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount />
-			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
 		<max_discount>600000</max_discount><priceWithDiscount>4049000</priceWithDiscount><sale_price>4049000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
