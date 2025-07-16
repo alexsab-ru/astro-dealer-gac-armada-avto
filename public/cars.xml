@@ -182,7 +182,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Белый</color>
 			<drive>Передний</drive>
-			<price>2699000</price>
+			<price>2799000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -284,14 +284,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>150000</credit_discount>
 			<modification_id id="23702768">1.5 AMT (170 л.с.)</modification_id>
-			<tradein_discount>300000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>1999000</priceWithDiscount><sale_price>1999000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gl-белый-2024/</url></car>
+		<max_discount>450000</max_discount><priceWithDiscount>2349000</priceWithDiscount><sale_price>2349000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gl-белый-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -300,7 +301,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Белый</color>
 			<drive>Передний</drive>
-			<price>2699000</price>
+			<price>2799000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -402,14 +403,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>150000</credit_discount>
 			<modification_id id="23702768">1.5 AMT (170 л.с.)</modification_id>
-			<tradein_discount />
+			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>1999000</priceWithDiscount><sale_price>1999000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gl-белый-2024/</url></car>
+		<max_discount>450000</max_discount><priceWithDiscount>2349000</priceWithDiscount><sale_price>2349000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gl-белый-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -418,7 +420,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Белый</color>
 			<drive>Передний</drive>
-			<price>2699000</price>
+			<price>2799000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -520,14 +522,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>150000</credit_discount>
 			<modification_id id="23702768">1.5 AMT (170 л.с.)</modification_id>
-			<tradein_discount>300000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>1999000</priceWithDiscount><sale_price>1999000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gl-белый-2024/</url></car>
+		<max_discount>450000</max_discount><priceWithDiscount>2349000</priceWithDiscount><sale_price>2349000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gl-белый-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -536,7 +539,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Белый</color>
 			<drive>Передний</drive>
-			<price>2699000</price>
+			<price>2799000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -626,14 +629,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>150000</credit_discount>
 			<modification_id id="23702768">1.5 AMT (170 л.с.)</modification_id>
-			<tradein_discount />
+			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>1999000</priceWithDiscount><sale_price>1999000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gl-белый-2024/</url></car>
+		<max_discount>450000</max_discount><priceWithDiscount>2349000</priceWithDiscount><sale_price>2349000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gl-белый-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -642,7 +646,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Синий</color>
 			<drive>Передний</drive>
-			<price>2699000</price>
+			<price>2799000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -747,14 +751,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>150000</credit_discount>
 			<modification_id id="23702768">1.5 AMT (170 л.с.)</modification_id>
-			<tradein_discount />
+			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GL</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>1999000</priceWithDiscount><sale_price>1999000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gl-синий-2024/</url></car>
+		<max_discount>450000</max_discount><priceWithDiscount>2349000</priceWithDiscount><sale_price>2349000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gl-синий-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -880,7 +885,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Черный</color>
 			<drive>Полный</drive>
-			<price>4299000</price>
+			<price>4499000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -981,14 +986,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>200000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GT</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>600000</max_discount><priceWithDiscount>3699000</priceWithDiscount><sale_price>3699000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>3899000</priceWithDiscount><sale_price>3899000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -997,7 +1003,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Черный</color>
 			<drive>Полный</drive>
-			<price>4649000</price>
+			<price>4849000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -1098,14 +1104,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>200000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
-			<tradein_discount />
+			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>600000</max_discount><priceWithDiscount>4049000</priceWithDiscount><sale_price>4049000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -1322,7 +1329,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Синий</color>
 			<drive>Передний</drive>
-			<price>2499000</price>
+			<price>2599000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -1427,14 +1434,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>150000</credit_discount>
 			<modification_id id="23702768">1.5 AMT (170 л.с.)</modification_id>
-			<tradein_discount>300000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GB</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>1799000</priceWithDiscount><sale_price>1799000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gb-синий-2024/</url></car>
+		<max_discount>450000</max_discount><priceWithDiscount>2149000</priceWithDiscount><sale_price>2149000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gb-синий-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -1683,7 +1691,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Белый</color>
 			<drive>Передний</drive>
-			<price>2299000</price>
+			<price>2449000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -1788,14 +1796,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>150000</credit_discount>
 			<modification_id id="23702768">1.5 AMT (170 л.с.)</modification_id>
-			<tradein_discount />
+			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GS</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>1599000</priceWithDiscount><sale_price>1599000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gs-белый-2024/</url></car>
+		<max_discount>450000</max_discount><priceWithDiscount>1999000</priceWithDiscount><sale_price>1999000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gs-белый-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -1804,7 +1813,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Синий</color>
 			<drive>Передний</drive>
-			<price>2499000</price>
+			<price>2599000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -1909,14 +1918,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>150000</credit_discount>
 			<modification_id id="23702768">1.5 AMT (170 л.с.)</modification_id>
-			<tradein_discount>300000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GB</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>1799000</priceWithDiscount><sale_price>1799000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gb-синий-2024/</url></car>
+		<max_discount>450000</max_discount><priceWithDiscount>2149000</priceWithDiscount><sale_price>2149000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gb-синий-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -1925,7 +1935,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Черный</color>
 			<drive>Полный</drive>
-			<price>4299000</price>
+			<price>4499000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -2026,14 +2036,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>300000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GT</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>600000</max_discount><priceWithDiscount>3699000</priceWithDiscount><sale_price>3699000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>3899000</priceWithDiscount><sale_price>3899000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -2129,11 +2140,11 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Белый</color>
 			<drive>Полный</drive>
-			<price>4649000</price>
+			<price>4999000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
-			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности для защиты коленей водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Проекционный дисплей, Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система автоматической парковки, Система доступа без ключа, Система контроля за полосой движения, Система контроля слепых зон, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка задних сидений, Электрорегулировка сиденья водителя с памятью, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
+			<extras>Bluetooth, USB, Адаптивный круиз-контроль, Антиблокировочная система (ABS), Антипробуксовочная система (ASR), Аудиосистема, Беспроводная зарядка для смартфона, Блокировка замков задних дверей, Бортовой компьютер, Вентиляция передних сидений, Датчик давления в шинах, Диски 20, Запуск двигателя с кнопки, Иммобилайзер, Камера 360°, Климат-контроль многозонный, Крепление для детского кресла (задний ряд), Люк, Мультифункциональное рулевое колесо, Навигационная система, Обогрев рулевого колеса, Отделка кожей рулевого колеса, Панорамная крыша, Парктроник задний, Парктроник передний, Передний центральный подлокотник, Подогрев задних сидений, Подогрев передних сидений, Подрулевые лепестки переключения передач, Подушка безопасности водителя, Подушка безопасности для защиты коленей водителя, Подушка безопасности пассажира, Подушки безопасности боковые, Подушки безопасности оконные (шторки), Проекционный дисплей, Противотуманные фары, Регулировка передних сидений по высоте, Рейлинги на крыше, Розетка 12V, Светодиодные фары, Система автоматической парковки, Система доступа без ключа, Система контроля за полосой движения, Система контроля слепых зон, Система помощи при старте в гору, Система помощи при торможении, Система распознавания дорожных знаков, Система стабилизации, Система управления дальним светом, Тонированные стекла, Третий ряд сидений, Усилитель руля, Центральный замок, ЭРА-ГЛОНАСС, Электронная приборная панель, Электрообогрев зеркал, Электрообогрев лобового стекла, Электропривод зеркал, Электропривод крышки багажника, Электрорегулировка задних сидений, Электрорегулировка сиденья водителя с памятью, Электроскладывание зеркал, Электростеклоподъёмники задние, Электростеклоподъёмники передние</extras>
 			<images>
 				<image>https://media.cm.expert/images/ad/04/original/bf0b76a827ad885bbbeb9ccf3bcfad04.jpg</image>
 				<image>https://media.cm.expert/images/1f/ea/original/7bc9a3b50c3e4b06658e14c28ceb1fea.jpg</image>
@@ -2234,13 +2245,14 @@ _______________________________________________________
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
 			<credit_discount />
-			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
-			<tradein_discount />
-			<complectation_name>GX Premium</complectation_name>
+			<modification_id id="24075812">Traveller 2.0 AT (231 л.с.) 4WD</modification_id>
+			<tradein_discount>300000</tradein_discount>
+			<complectation_name>GX Traveller</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>600000</max_discount><priceWithDiscount>4049000</priceWithDiscount><sale_price>4049000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
+		<max_discount>400000</max_discount><priceWithDiscount>4599000</priceWithDiscount><sale_price>4599000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-traveller-20-at-231-лс-4wd-gx-traveller-белый-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -2491,7 +2503,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Синий</color>
 			<drive>Передний</drive>
-			<price>2499000</price>
+			<price>2599000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -2596,14 +2608,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>150000</credit_discount>
 			<modification_id id="23702768">1.5 AMT (170 л.с.)</modification_id>
-			<tradein_discount>300000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<complectation_name>GB</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>1799000</priceWithDiscount><sale_price>1799000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gb-синий-2024/</url></car>
+		<max_discount>450000</max_discount><priceWithDiscount>2149000</priceWithDiscount><sale_price>2149000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs3-i-15-amt-170-лс-gb-синий-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -3678,14 +3691,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>200000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
-			<tradein_discount />
+			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>4149000</priceWithDiscount><sale_price>4149000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -3694,7 +3708,7 @@ _______________________________________________________
 			<year>2024</year>
 			<color>Белый</color>
 			<drive>Полный</drive>
-			<price>4849000</price>
+			<price>4999000</price>
 			<wheel>левый</wheel>
 			<action>show</action>
 			<custom>Растаможен</custom>
@@ -3798,12 +3812,13 @@ _______________________________________________________
 			<booking_allowed>false</booking_allowed>
 			<credit_discount />
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
-			<tradein_discount />
+			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>4149000</priceWithDiscount><sale_price>4149000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
+		<max_discount>400000</max_discount><priceWithDiscount>4599000</priceWithDiscount><sale_price>4599000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -3911,14 +3926,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>200000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
-			<tradein_discount />
+			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>700000</max_discount><priceWithDiscount>4149000</priceWithDiscount><sale_price>4149000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -4317,14 +4333,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>200000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
-			<tradein_discount />
+			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>0</max_discount><priceWithDiscount>4849000</priceWithDiscount><sale_price>4849000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -4525,14 +4542,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>200000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GT</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>0</max_discount><priceWithDiscount>4499000</priceWithDiscount><sale_price>4499000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>3899000</priceWithDiscount><sale_price>3899000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -4642,14 +4660,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>200000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GT</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>0</max_discount><priceWithDiscount>4499000</priceWithDiscount><sale_price>4499000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>3899000</priceWithDiscount><sale_price>3899000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -4759,14 +4778,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>200000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
-			<tradein_discount />
+			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>0</max_discount><priceWithDiscount>4849000</priceWithDiscount><sale_price>4849000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -4876,14 +4896,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>200000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GT</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>0</max_discount><priceWithDiscount>4499000</priceWithDiscount><sale_price>4499000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>3899000</priceWithDiscount><sale_price>3899000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -4991,14 +5012,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>200000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
-			<tradein_discount />
+			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>0</max_discount><priceWithDiscount>4849000</priceWithDiscount><sale_price>4849000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
@@ -5110,14 +5132,15 @@ _______________________________________________________
 			<owners_number>Не было владельцев</owners_number>
 			<registry_year>2024</registry_year>
 			<booking_allowed>false</booking_allowed>
-			<credit_discount />
+			<credit_discount>200000</credit_discount>
 			<modification_id id="23657625">2.0 AT (231 л.с.) 4WD</modification_id>
 			<tradein_discount>300000</tradein_discount>
 			<complectation_name>GX Premium</complectation_name>
 			<insurance_discount />
+			<online_purchase_allowed>false</online_purchase_allowed>
 			<not_registered_in_russia>true</not_registered_in_russia>
 			<accepted_autoru_exclusive>false</accepted_autoru_exclusive>
-		<max_discount>0</max_discount><priceWithDiscount>4849000</priceWithDiscount><sale_price>4849000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-серый-2024/</url></car>
+		<max_discount>600000</max_discount><priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><url>https://gac-armada-avto.ru/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-серый-2024/</url></car>
 		<car>
 			<pts>Оригинал</pts>
 			<run>0</run>
