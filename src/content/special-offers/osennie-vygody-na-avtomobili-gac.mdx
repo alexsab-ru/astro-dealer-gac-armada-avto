@@ -1,0 +1,24 @@
+---
+pubDate: 2025-10-24
+caption: "Осенние выгоды до 450 000 рублей на автомобили GAC!"
+image: https://cdn.alexsab.ru/specials/gac/gac-armada-avto/osennie-vygody-na-avtomobili-gac/gs8-ii-white-600x340.webp
+title: "Осенние выгоды до 450 000 рублей на автомобили GAC!"
+description: "Осенние выгоды до 450 000 рублей на автомобили GAC!"
+breadcrumb: "Осенние выгоды до 450 000 рублей на автомобили GAC!"
+h1:  "Осенние выгоды до 450 000 рублей на автомобили GAC!"
+---
+export const DateFrom = "01.01.2024"
+export const DateTo = "31.01.2024"
+
+import Button from '@/components/Button/Button.astro';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
+import { phoneFormat } from '@/js/utils/numbers.format';
+
+<picture>
+	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/gac/gac-armada-avto/osennie-vygody-na-avtomobili-gac/gs8-ii-white-1920x720.webp" />
+	<source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/gac/gac-armada-avto/osennie-vygody-na-avtomobili-gac/gs8-ii-white-600x340.webp" />
+	<img src="https://cdn.alexsab.ru/specials/gac/gac-armada-avto/osennie-vygody-na-avtomobili-gac/gs8-ii-white-600x340.webp" class="mb-10" alt="Осенние выгоды до 450 000 рублей на автомобили GAC!" />
+</picture>
+
+
