@@ -24,10 +24,27 @@ const salons = salonsData.filter((salon: ISalon) => !salon?.type || salon?.type.
 const modelsWithComplectations = models.filter(m => (m?.complectations !== undefined && m?.complectations.length));
 const salonsPhone = salons.map((salon: any) => salon.phone).filter(phone => phone).join(', ');
 import SeoText from '@/components/Seo/Index.astro';
+
+import InfoItem from '@/components/Info/Item.astro';
+const infoItemClasses = "popup-link flex flex-col-reverse items-center justify-end gap-5 transition-all shadow-xl hover:shadow-lg font-medium xl:text-lg text-center p-4";
+const infoItems = [
+	{title: "Зимние шины в комплекте", icon: "mdi:gift", url: "#common-modal", iconClasses: "text-accent-500 size-16"},
+	{title: "5 лет гарантии", icon: "mdi:shield-check", url: "#common-modal", iconClasses: "text-accent-500 size-16"},
+	{title: "Кредит от 0.01%", icon: "mdi:sale", url: "#common-modal", iconClasses: "text-accent-500 size-16"},
+	{title: "Выгода до 450 000 руб.", icon: "mdi:hand-coin", url: "#common-modal", iconClasses: "text-accent-500 size-16"},
+	{title: "Выгода в лизинг - до 11%", icon: "mdi:sale", url: "#common-modal", iconClasses: "text-accent-500 size-16"},
+];
 ---
 
 <Layout title=`Купить ${brand} у официального дилера ${site_name}` description=`Забронируйте свой автомобиль прямо сейчас у официального дилера ${brand} в ${legal_city_where}! ☎️ ${salonsPhone}`>
 	<Banner />
+	<section>
+		<div class="container">
+			<div class="grid sm:grid-cols-2 lg:grid-cols-5 gap-6">
+				{infoItems.map(item => ( <InfoItem item={item} classes={infoItemClasses} data-title="Получить спецпредложение" data-form_name={`Получить спецпредложение. ${item.title.replace(/<[^>]*>/g, '')}`} /> ))}
+			</div>
+		</div>
+	</section>
 	{MARQUEE.show && <Morquee marquee={ MARQUEE } />}
 	<section class="ptop-[2.7] pbottom-[2.5] bg-accent-500">
 		<div class="container">
