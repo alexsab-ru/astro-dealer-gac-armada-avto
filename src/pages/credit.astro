@@ -1,0 +1,46 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
+import settings from '@/data/settings.json';
+import PageH1 from '@/components/PageH1/Index.astro';
+import InfoItem from '@/components/Info/Item.astro';
+const { brand, legal_city_where, site_name } = settings;
+
+const infoItemClasses = "flex flex-col-reverse items-center justify-end gap-4 text-center bg-gray-100 p-5 rounded-xl";
+const infoItems = [
+	{
+		title: `<span class="text-lg lg:text-xl font-semibold">Выгодно</span><span class="block text-sm text-gray-500 mt-1">Выгода по кредиту суммируется с выгодой по трейд-ин</span>`,
+		icon: "mdi:hand-coin",
+		iconClasses: "text-accent-500 size-16"
+	},
+	{
+		title: `<span class="text-lg lg:text-xl font-semibold">Быстро</span><span class="block text-sm text-gray-500 mt-1">Оформление занимает минимум времени, ответ в кратчайшие сроки</span>`,
+		icon: "mdi:flash",
+		iconClasses: "text-accent-500 size-16"
+	},
+	{
+		title: `<span class="text-lg lg:text-xl font-semibold">На любой срок</span><span class="block text-sm text-gray-500 mt-1">Срок кредитования до 96 месяцев</span>`,
+		icon: "mdi:calendar-clock",
+		iconClasses: "text-accent-500 size-16"
+	}
+];
+---
+
+<Layout title={`Купить ${brand} в кредит — кредитные программы у официального дилера в ${legal_city_where} | ${site_name}`} description={`Купить автомобили ${brand} в кредит у официального дилера в ${legal_city_where}, выгодные программы кредитования. Рассчитать автокредит на автомобили ${brand}. ►Узнайте об условиях кредитования и специальных предложениях ►Первоначальный взнос от 0% ►До 96 месяцев`}>
+	<div class="container py-10 space-y-10">
+		
+		<PageH1 h1={`Оформление кредита без посещения банка
+на выгодных условиях`} classes="text-3xl sm:text-4xl text-center" />
+		
+		<section class="p-0!">
+			<p class="text-center mb-4 text-gray-500">Наши три ключевых преимущества — это то, что делает процесс
+				оформления кредита максимально удобным:</p>
+			<div class="grid gap-4 sm:grid-cols-3">
+				{infoItems.map(item => (
+					<InfoItem item={item} classes={infoItemClasses} />
+				))}
+			</div>
+		</section>
+		<FeedbackForm title="Получить предложение по кредиту" dataFormName="Получить предложение по кредиту" showModelSelect={true} />
+	</div>
+</Layout>
