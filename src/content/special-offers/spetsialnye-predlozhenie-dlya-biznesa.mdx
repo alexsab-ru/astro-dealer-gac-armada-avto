@@ -7,13 +7,18 @@ description: "Специальные предложение для Бизнес�
 breadcrumb: "Специальные предложение для Бизнеса!"
 h1:  "Специальные предложение для Бизнеса!"
 ---
-export const DateFrom = "01.01.2024"
-export const DateTo = "31.01.2024"
-
 import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 import settings from '@/data/settings.json';
 export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
 <picture>
 	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/gac/gac-armada-avto/spetsialnye-predlozhenie-dlya-biznesa/gs8-ii-blue-1920x720.webp" />
@@ -23,17 +28,13 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 
 **Цена в лизинг от:**
 
-GAC GS8 комплектация GT - от **4 009 000₽**
+GAC GS8 GL - от **3 880 000₽**
 
-GAC GS8 комплектация GPX - от **4 315 000₽**
+GAC GS8 GT - от **4 120 000₽**
 
-<div class="mt-10 mb-5">
-	<Button 
-		classes="popup-link block w-fit !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
-		url="#common-modal" 
-		title="Подробнее"
-		dataTitle="Заказать обратный звонок"
-		dataFormName={`Подробнее. Специальные предложение для Бизнеса!`}
-	/>
+GAC GS8 GXP - от **4 430 000₽**
+
+<div class="py-20" id="service-request">
+	<h2>Получить предложение</h2>
+	<FeedbackForm title="" dataFormName="Получить предложение. Лизинг" showModelSelect={false} />
 </div>
-
