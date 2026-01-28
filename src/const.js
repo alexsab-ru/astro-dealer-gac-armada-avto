@@ -75,7 +75,7 @@ export const STATUS = ['enable','show','disable','hide','preorder','comminsoon']
 // Коллекции теперь хранятся в @/data/collections.json
 
 // Текст согласия в формах
-export const AGREE_LABEL = '<span>Даю <a href="/personal-data-consent/" class="m-0! underline transition-all hover:no-underline" target="_blank">согласие на обработку своих персональных данных</a> на условиях, указанных</span> <a href="/privacy-policy/" class="m-0! underline transition-all hover:no-underline" target="_blank">здесь</a> и на использование cookie на условиях, указанных <a href="/cookie-policy/" class="m-0! underline transition-all hover:no-underline" target="_blank">здесь</a>';
+export const AGREE_LABEL = '<span>Согласен на обработку моих персональных данных</span> <a href="/personal-data-consent/" class="m-0! underline transition-all hover:no-underline" target="_blank">(подробнее)</a>, и с политикой обработки персональных данных <a href="/privacy-policy/" class="m-0! underline transition-all hover:no-underline" target="_blank">(подробнее)</a>, а также на использование cookie <a href="/cookie-policy/" class="m-0! underline transition-all hover:no-underline" target="_blank">(подробнее)</a>';
 
 // Текст информации в футере
 import salonsData from '@/data/salons.json';
