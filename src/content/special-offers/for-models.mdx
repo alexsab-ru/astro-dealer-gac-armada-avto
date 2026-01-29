@@ -396,10 +396,10 @@ export const modelsJson = JSON.stringify(selectedModels);
                 </div>
                 
                 <div class="col-span-full mt-8">
-                    <div class="border-t border-gray-200 pt-6">
+                    <div class="border-t border-b border-gray-200 py-6">
                         <button 
                             x-on:click="disclaimersOpen = !disclaimersOpen"
-                            class="flex items-center justify-between w-full text-left font-semibold text-base mb-4 hover:text-accent-600 transition-colors"
+                            class="flex items-center justify-between w-full text-left font-semibold text-base hover:text-accent-500 transition-colors"
                         >
                             <span>Подробности</span>
                             <span class="text-2xl transition-transform duration-300" x-bind:class="{'rotate-45': disclaimersOpen}">+</span>
@@ -440,5 +440,80 @@ export const modelsJson = JSON.stringify(selectedModels);
         </template>
     </div>
 </div>
+
+<section class="grid grid-cols-1 md:grid-cols-2 gap-6">
+  <div class="bg-gray-50 rounded-xl shadow-md p-6 hover:shadow-lg transition-shadow duration-300 flex flex-col">
+    <h3 class="text-xl font-bold mb-4">GAC Фемили трейд-ин<sup>1</sup></h3>
+    <p class="mb-3">Однажды вы сделали правильный выбор — время его повторить.</p>
+
+    <p class="mb-3 text-sm text-gray-600">Предложение распространяется на все модели GAC, при сдаче в трейд-ин автомобиля GAC, приобретенного у официального дилера до 31.12.2020 и находящегося в собственности у первого покупателя.</p>
+
+    <p class="mb-4">Выгода <strong>до&nbsp;550&nbsp;000&nbsp;₽</strong> при покупке модели <strong>GS8</strong>.</p>
+
+    <div class="text-sm text-gray-500 mb-4">Предложение действует до {DateTo}</div>
+
+    <div class="mt-auto">
+      <Button 
+        classes="popup-link w-fit inline-block px-4! xl:px-8! py-2! xl:py-3! text-white! no-underline!" 
+        url="#common-modal" 
+        title="Получить предложение"
+        dataTitle="Получить предложение"
+        dataFormName="Программа «GAC Фемили трейд-ин»"
+      />
+    </div>
+  </div>
+  <div class="bg-gray-50 rounded-xl shadow-md p-6 hover:shadow-lg transition-shadow duration-300 flex flex-col">
+    <h3 class="text-xl font-bold mb-4">Программа трейд-ин<sup>2</sup></h3>
+    <p class="mb-3 text-sm text-gray-600">Предложение распространяется на все модели GAC, при сдаче автомобиля в трейд-ин.&nbsp;</p>
+
+    <p class="mb-4">Выгода <strong>до&nbsp;200&nbsp;000&nbsp;₽</strong> при покупке модели <strong>GS8</strong>.</p>
+
+    <div class="text-sm text-gray-500 mb-4">Предложение действует до {DateTo}</div>
+    
+    <div class="mt-auto">
+      <Button 
+        classes="popup-link w-fit inline-block px-4! xl:px-8! py-2! xl:py-3! text-white! no-underline!" 
+        url="#common-modal" 
+        title="Получить предложение"
+        dataTitle="Получить предложение"
+        dataFormName="Программа «трейд-ин»"
+      />
+    </div>
+  </div>
+  <div class="bg-gray-50 rounded-xl shadow-md p-6 hover:shadow-lg transition-shadow duration-300 flex flex-col">
+    <h3 class="text-xl font-bold mb-4">Второй автомобиль в семью<sup>3</sup></h3>
+    <p class="mb-3">Совершенство заслуживает повторения.</p>
+
+    <p class="mb-3">Выгода на покупку второго GAC в семью&nbsp;<strong>до&nbsp;150&nbsp;000&nbsp;₽</strong> на новый GAC.</p>
+
+    <p class="mb-4 text-sm text-gray-600">Предложение распространяется на владельца автомобиля GAC и его родственников.</p>
+    <div class="text-sm text-gray-500 mb-4">Предложение действует до {DateTo}</div>
+    
+    <div class="mt-auto">
+      <Button 
+        classes="popup-link w-fit inline-block px-4! xl:px-8! py-2! xl:py-3! text-white! no-underline!" 
+        url="#common-modal" 
+        title="Получить предложение"
+        dataTitle="Получить предложение"
+        dataFormName="Программа «Второй автомобиль в семью»"
+      />
+    </div>
+  </div>
+  <div class="bg-gray-50 rounded-xl shadow-md p-6 hover:shadow-lg transition-shadow duration-300 flex flex-col">
+    <h3 class="text-xl font-bold mb-4">Рассрочка от 0,01%<sup>4</sup></h3>
+    <p class="mb-4 text-sm text-gray-600">Специальная кредитная программа со сниженной процентной ставкой на покупку модели «GS8».</p>
+    <div class="text-sm text-gray-500 mb-4">Предложение действует до {DateTo}</div>
+    
+    <div class="mt-auto">
+      <Button 
+        classes="popup-link w-fit inline-block px-4! xl:px-8! py-2! xl:py-3! text-white! no-underline!" 
+        url="#common-modal" 
+        title="Получить предложение"
+        dataTitle="Получить предложение"
+        dataFormName="Программа «Рассрочка от 0,01%»"
+      />
+    </div>
+  </div>
+</section>
 
 
