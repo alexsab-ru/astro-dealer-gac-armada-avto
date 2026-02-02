@@ -1,14 +1,15 @@
 ---
 pubDate: 2026-01-01
 toDate: true
-caption:  Специальные предложения в январе
+caption:  Специальные предложения
 image: https://cdn.alexsab.ru/specials/gac/for-models/thumb.webp
-title: Специальные предложения для моделей GS8, GS3 и M8, GS4 и Empow
-description: "Превосходные условия на превосходные автомобили GAC GS8, GAC GS3,  GAC M8, GAC GS4 и GAC Empow. Новые стартовые цены"
-breadcrumb: Специальные предложения в январе
+title: Специальные предложения для моделей GS8 и M8, GS4 и Empow
+description: "Превосходные условия на превосходные автомобили GAC GS8,  GAC M8, GAC GS4 и GAC Empow. Новые стартовые цены"
+breadcrumb: Специальные предложения
 h1: Специальные предложения на автомобили GAC
 ---
-import {FIRST_DAY, LAST_DAY, MONTH, YEAR} from '@/js/utils/date';
+import {FIRST_DAY, LAST_DAY, MONTH, YEAR, MONTH_PREPOSITIONAL, MONTH_NOMINATIVE, MONTH_GENITIVE} from '@/js/utils/date';
+
 export const DateFrom = "01.01.2026";
 export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}г.`;
 
@@ -394,7 +395,7 @@ export const modelsCount = selectedModels.length;
                     <img x-bind:src="model.thumb" x-bind:alt="model.name" class="w-full max-w-[500px]" />
                 </div>
                 <div>
-                    <h3 class="text-2xl md:text-3xl font-bold mb-4">Специальное предложение в январе</h3>
+                    <h3 class="text-2xl md:text-3xl font-bold mb-4">Специальное предложение в {MONTH_PREPOSITIONAL.toLowerCase()}</h3>
                     <div class="mb-4 text-gray-500"><small x-text="model.shortDescription"></small></div>
                     <div class="text-3xl font-bold mb-4">
                         <span x-text="model.name"></span>
