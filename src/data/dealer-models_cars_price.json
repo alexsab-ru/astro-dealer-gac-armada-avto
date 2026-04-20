@@ -13,6 +13,12 @@
   },
   {
     "brand": "Gac",
+    "model": "M8",
+    "price": 6749000,
+    "benefit": 0
+  },
+  {
+    "brand": "Gac",
     "model": "S7",
     "price": 5787510,
     "benefit": 300000
