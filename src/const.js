@@ -83,8 +83,6 @@ export const LINKS_MENU = menu;
 
 export const STATUS = ['enable','show','disable','hide','preorder','comminsoon'];
 
-// Коллекции теперь хранятся в @/data/site/collections.json
-
 // Текст согласия в формах
 export const AGREE_LABEL = '<span>Согласен на обработку моих персональных данных</span> <a href="/personal-data-consent/" class="m-0! underline transition-all hover:no-underline" target="_blank">(подробнее)</a>, и с политикой обработки персональных данных <a href="/privacy-policy/" class="m-0! underline transition-all hover:no-underline" target="_blank">(подробнее)</a>, а также на использование cookie <a href="/cookie-policy/" class="m-0! underline transition-all hover:no-underline" target="_blank">(подробнее)</a>';
 
