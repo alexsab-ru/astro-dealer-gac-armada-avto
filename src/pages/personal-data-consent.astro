@@ -1,20 +1,11 @@
 ---
-import PageLayout from '@/layouts/PageLayout.astro';
-import Consent from '@/content/personal-data-consent.mdx';
-import settings from '@/data/site/settings.json';
-const { site_name, brand, legal_entity, legal_inn, legal_city, phone_common, email_common } = settings;
-import scripts from '@/data/site/scripts.json';
-const { site } = scripts;
-import salonsData from '@/data/site/salons.json';
-import type { ISalon } from '@/types/ISalon';
-const salons = salonsData.filter((salon: ISalon) => !salon?.type || salon?.type.includes('privacy_policy'));
+import PersonalDataConsent from '@/content/personal-data-consent.mdx';
+import { frontmatter as personalDataConsentFrontmatter } from '@/content/personal-data-consent.mdx';
+import LegalDocumentPage from '@/components/Legal/DocumentPage.astro';
 ---
 
-<PageLayout
-    h1="Согласие на обработку персональных данных"
-    title="Согласие на обработку персональных данных"
-    description={`Согласие на обработку персональных данных`}
-    breadcrumb={[{name:"Согласие на обработку персональных данных",href:""}]}
->
-    <Consent />
-</PageLayout>
+<LegalDocumentPage
+	Content={PersonalDataConsent}
+	frontmatter={personalDataConsentFrontmatter}
+	fallbackTitle="Согласие на обработку персональных данных"
+/>
